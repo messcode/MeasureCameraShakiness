@@ -12,7 +12,7 @@ Compute the transformation matrix for every frames and use it to measure the cam
 
 ## Demo
 
-![Demo](.\output\demo.png)
+![Demo](https://github.com/messcode/MeasureCameraShakiness/blob/master/output/demo.png)
 
 
 
