@@ -10,6 +10,18 @@ The main idea is as follows:
 
 Compute the transformation matrix for every frames and use it to measure the camera movements.  
 
+## Demo
+
+![Demo](.\output\demo.png)
+
+
+
+Key points transformation of two videos in every 2 frames.  `dx` refers to  the movements in horizontal direction; `dy` refers to the movements in vertical direction. 
+
+---
+
+
+
 
 <a name="myfootnote1">1</a> .  https://stackoverflow.com/questions/57521164/how-to-detect-if-camera-is-moving-or-shaking-using-homography-opencv-python
 
